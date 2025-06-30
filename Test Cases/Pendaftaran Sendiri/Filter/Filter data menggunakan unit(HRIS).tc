@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan filter data user yang terdaftar berdasarkan unit(HRIS)</description>
+   <name>Filter data menggunakan unit(HRIS)</name>
+   <tag>Tinggi</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6b79044e-414b-4a44-9792-603fec4de139</testCaseGuid>
+</TestCaseEntity>

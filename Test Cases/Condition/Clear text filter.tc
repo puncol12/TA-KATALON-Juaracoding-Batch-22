@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memberishkan search field filter di halaman management sendiri</description>
+   <name>Clear text filter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b60336b3-20b2-4fa2-b8f9-b3212c01a985</testCaseGuid>
+</TestCaseEntity>

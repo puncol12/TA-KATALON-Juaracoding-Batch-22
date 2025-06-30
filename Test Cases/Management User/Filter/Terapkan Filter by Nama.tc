@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menerapkan filter data karyawan berdasarkan status</description>
+   <name>Terapkan Filter by Nama</name>
+   <tag>Medium</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0175ad0e-d3e3-4f50-949e-01084fa11656</testCaseGuid>
+</TestCaseEntity>

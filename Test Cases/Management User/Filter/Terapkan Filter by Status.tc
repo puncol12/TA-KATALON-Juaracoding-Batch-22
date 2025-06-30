@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>menerapkan filter dara user berdasarkan status</description>
+   <name>Terapkan Filter by Status</name>
+   <tag>medium</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0b6f5ec-46a7-431b-a1e2-ca6e9e180172</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menampilkan data user yang sudah mendaftar</description>
+   <name>Menampilkan User</name>
+   <tag>Tinggi</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d6de8738-031e-47ab-9c39-d6d85d755a11</testCaseGuid>
+</TestCaseEntity>

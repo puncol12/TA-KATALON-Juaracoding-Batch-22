@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Container pengaturan absensi</name>
+   <tag></tag>
+   <elementGuidId>9e805923-3c46-4a2f-a1ab-7bfaab662565</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div/div[2]/form/div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e2c87e12-a30c-43fe-9160-09cc4cb24adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiCardContent-root css-1saerv2</value>
+      <webElementGuid>1cd32ddf-9870-488b-9c15-c71ed34086eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lokasi Kerja​Tipe ShiftNon Shift​Jadwal Kerja​SelfieSelfie​Jumlah Cuti​Aktifkan TrackingAktifkan Projek</value>
+      <webElementGuid>ef024abf-1232-4d66-b6c1-c665b20c5262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-10f63sf&quot;]/div[@class=&quot;css-11qbmxu&quot;]/div[@class=&quot;MuiContainer-root css-1p62yps&quot;]/div[@class=&quot;MuiBox-root css-76jx17&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-12 css-15j76c0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1ov3uxt&quot;]/form[1]/div[@class=&quot;MuiCardContent-root css-1saerv2&quot;]</value>
+      <webElementGuid>e2a60fd9-b24b-466e-a85e-93160d47f105</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div/div[2]/form/div[6]</value>
+      <webElementGuid>0fd17d05-f666-4799-8610-7456ecd02717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengaturan Absensi'])[1]/following::div[1]</value>
+      <webElementGuid>1cacc59a-5246-431c-b17b-e3dad10c6bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[14]/following::div[3]</value>
+      <webElementGuid>1abffda4-5bee-451b-a7e9-471954517402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>0ffd1404-942c-4aad-8405-90186fe53517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Lokasi Kerja​Tipe ShiftNon Shift​Jadwal Kerja​SelfieSelfie​Jumlah Cuti​Aktifkan TrackingAktifkan Projek' or . = 'Lokasi Kerja​Tipe ShiftNon Shift​Jadwal Kerja​SelfieSelfie​Jumlah Cuti​Aktifkan TrackingAktifkan Projek')]</value>
+      <webElementGuid>80bd5888-5246-4519-ab4c-52508933a6b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
