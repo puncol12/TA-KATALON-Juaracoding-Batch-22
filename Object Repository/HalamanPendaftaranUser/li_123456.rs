@@ -6,15 +6,15 @@
    <elementGuidId>7bb08f69-e99b-41cb-89f7-74c2aee61d0e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
          <key>BASIC</key>
-         <value>//*[(text() = '  123456' or . = '  123456')]</value>
+         <value>//*[(text() = '1' or . = '1')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>(//li[@id='divisi-option-0'])[2]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>28118b0f-5294-4974-abb1-367caabec0ae</webElementGuid>
+      <webElementGuid>8a0fe94e-2645-49f2-920d-7289d8156449</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>95199261-eeed-463b-813a-05ff4011f42f</webElementGuid>
+      <webElementGuid>e5e54a52-e241-4ebd-ab89-335201918461</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>b78b3807-36d2-4d13-ad3f-e5954dc26e26</webElementGuid>
+      <webElementGuid>e457c92c-92df-47bb-b9ec-09277ab0d16c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>id</name>
       <type>Main</type>
       <value>divisi-option-0</value>
-      <webElementGuid>79aa4228-4e37-4563-83b2-e45c3e42d0c8</webElementGuid>
+      <webElementGuid>996dfecb-48d0-480c-b961-7a1fbe5c764a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>data-option-index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>1e055f5a-104e-492c-8c85-4a57a6a3880d</webElementGuid>
+      <webElementGuid>30fa9961-fbba-46e5-aafe-71dd6e2381c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f21937bd-c2f4-4856-b0df-ea689d6fcc7d</webElementGuid>
+      <webElementGuid>a304e90c-87f5-47cb-b11f-088f23a3b38f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6eaf1f13-2399-4002-888d-934abd1d49b2</webElementGuid>
+      <webElementGuid>2f7e31e1-ccc6-41e0-a984-f93ed3cba4b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -82,15 +82,15 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiAutocomplete-option</value>
-      <webElementGuid>471d440a-6a71-43cb-a163-07d355d3a807</webElementGuid>
+      <webElementGuid>9d3e1018-ae10-4139-aa5c-8596cae3481a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>  123456</value>
-      <webElementGuid>bc162d2c-68bd-4ba0-83b5-3107697e285d</webElementGuid>
+      <value>1</value>
+      <webElementGuid>2195623b-d503-4d08-8b77-8681c68a3dc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;divisi-listbox&quot;)/li[@id=&quot;divisi-option-0&quot;]</value>
-      <webElementGuid>de4e91b1-df0f-402a-9267-ee020c45e66e</webElementGuid>
+      <webElementGuid>10711f02-0cc9-4e7e-8b34-07ad28582e4e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//li[@id='divisi-option-0'])[2]</value>
-      <webElementGuid>2361d9f9-e013-48f2-a258-87412486a9c4</webElementGuid>
+      <webElementGuid>00ae1f66-64a8-4694-a390-c69bd5293977</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='divisi-listbox']/li[5]</value>
-      <webElementGuid>09cb8b9c-e264-46e3-8dd6-2167c8f6701c</webElementGuid>
+      <webElementGuid>92d008df-46af-41b1-8143-21ea839ccb22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::li[5]</value>
-      <webElementGuid>18ebd208-be94-4444-926d-b8ad6dd93444</webElementGuid>
+      <webElementGuid>9afbb79a-9b3c-46ea-b86d-67b3893bb35a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Password'])[1]/following::li[5]</value>
-      <webElementGuid>ae94b396-936b-464a-89d2-ec35b2c1a085</webElementGuid>
+      <webElementGuid>83a60e8e-5023-4669-a745-c59d39c65bd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='123456']/parent::*</value>
-      <webElementGuid>95f0688a-a011-460d-b50b-08bdc90bfd8f</webElementGuid>
+      <webElementGuid>636e9ddc-2b44-4788-9ebb-bb05ff91cfd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,7 +146,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]</value>
-      <webElementGuid>fd0d1067-c0d9-49c7-8ebf-87eadaa10b9b</webElementGuid>
+      <webElementGuid>da311b54-4c6c-41db-b5a1-ade334bb031d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -154,6 +154,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = 'divisi-option-0' and (text() = '  123456' or . = '  123456')]</value>
-      <webElementGuid>84e1e731-29ea-4747-9adf-70df8754f051</webElementGuid>
+      <webElementGuid>24b98f34-1c10-4661-8736-862c6f0e9267</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

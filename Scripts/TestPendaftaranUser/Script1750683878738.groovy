@@ -33,7 +33,9 @@ WebUI.setText(findTestObject('Object Repository/HalamanLogin/InputEmailLogin'), 
 
 WebUI.setEncryptedText(findTestObject('Object Repository/HalamanLogin/InputPasswordLogin'), 'S2AZ2CswOAOlQb1Nd5D/WQ==')
 
-WebUI.setText(findTestObject('Object Repository/HalamanPendaftaranUser/KolomPengisianDivisi'), '123456')
+WebUI.setText(findTestObject('Object Repository/HalamanPendaftaranUser/KolomPengisianDivisi'), '1')
+
+WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/HalamanPendaftaranUser/li_123456'))
 
@@ -41,21 +43,21 @@ WebUI.setText(findTestObject('Object Repository/HalamanPendaftaranUser/KolomPeng
 
 WebUI.click(findTestObject('Object Repository/HalamanPendaftaranUser/li_123456_1'))
 
-WebUI.setText(findTestObject('Object Repository/HalamanPendaftaranUser/KolomPengisianPosisiKerja'), 'Admin Recruitment')
+WebUI.setText(findTestObject('Object Repository/HalamanPendaftaranUser/KolomPengisianPosisiKerja'), 'yusu')
 
-WebUI.click(findTestObject('HalamanPendaftaranUser/li_Admin Recruitment'))
+WebUI.click(findTestObject('HalamanPendaftaranUser/PilihanPosisiKerja'))
 
 WebUI.setText(findTestObject('Object Repository/HalamanPendaftaranUser/KolomPengisianJabatan'), 'staff 1')
 
 WebUI.click(findTestObject('Object Repository/HalamanPendaftaranUser/li_Staff 1'))
 
-WebUI.setText(findTestObject('Object Repository/HalamanPendaftaranUser/KolomPengisianAtasan'), 'd7231985')
+WebUI.setText(findTestObject('Object Repository/HalamanPendaftaranUser/KolomPengisianAtasan'), 'd7231985 - asdasd')
 
 WebUI.click(findTestObject('Object Repository/HalamanPendaftaranUser/li_D7231985 - asdasd'))
 
-WebUI.setText(findTestObject('Object Repository/HalamanPendaftaranUser/KolomPengisianAtasanClientV3'), '')
-
 WebUI.click(findTestObject('Object Repository/HalamanPendaftaranUser/KolomPengisianAtasanClientV3'))
+
+WebUI.setText(findTestObject('Object Repository/HalamanPendaftaranUser/KolomPengisianAtasanClientV3'), 'Nama')
 
 WebUI.click(findTestObject('Object Repository/HalamanPendaftaranUser/li_Nama - Air Asia'))
 

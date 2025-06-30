@@ -6,6 +6,10 @@
    <elementGuidId>bd58e164-168e-4fd3-9913-db4cfa889f05</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>#unit-option-0</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//*[@id = 'unit-option-0' and (text() = '123456' or . = '123456')]</value>
       </entry>
@@ -13,12 +17,8 @@
          <key>XPATH</key>
          <value>//li[@id='unit-option-0']</value>
       </entry>
-      <entry>
-         <key>CSS</key>
-         <value>#unit-option-0</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -27,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>e1bcb60f-b246-4f3e-aa43-721b7d80b5e2</webElementGuid>
+      <webElementGuid>5a9150b7-f54f-4350-98bc-b055b77eeba5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,7 +35,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>4c72b288-3502-43fa-b756-215b07dd0c14</webElementGuid>
+      <webElementGuid>be77b889-ba61-4b5d-bf92-b4e3e5254dee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +43,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>0e4a91fd-81e4-4076-8e42-68ad9833be69</webElementGuid>
+      <webElementGuid>55707b8a-1ec3-4d67-b156-f0353c980177</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -51,7 +51,7 @@
       <name>id</name>
       <type>Main</type>
       <value>unit-option-0</value>
-      <webElementGuid>a428a600-f235-4899-8082-162e2d9c50d1</webElementGuid>
+      <webElementGuid>a24b35bd-35d8-44b3-8d75-8fec1dea61b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +59,7 @@
       <name>data-option-index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>7293a7c2-6797-4288-af52-caf9a0edf80a</webElementGuid>
+      <webElementGuid>ace4cabe-e934-4312-bfbf-b30e4831bb54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +67,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>17659583-e481-4adc-9737-d0fa2ab9ce6a</webElementGuid>
+      <webElementGuid>2350116a-d96a-476e-bb6f-07a48118d4de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,7 +75,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0d03f697-81c9-494f-84ad-4d895498f28f</webElementGuid>
+      <webElementGuid>ab65b8f1-d9df-420a-970d-6bb06b7996a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiAutocomplete-option Mui-focused</value>
-      <webElementGuid>3d17fcd3-9acb-41c8-a944-54571ae1aef5</webElementGuid>
+      <webElementGuid>657ed79d-8a65-4d25-84b6-fa6a151d7a7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -91,7 +91,7 @@
       <name>text</name>
       <type>Main</type>
       <value>123456</value>
-      <webElementGuid>857bfecb-a2fa-4c01-93b5-f2eeb4035679</webElementGuid>
+      <webElementGuid>b7bb6b88-efbb-454b-9f7a-e805b317cef7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;unit-option-0&quot;)</value>
-      <webElementGuid>87260bbd-bb81-4cf1-8b3b-0d9966c2568c</webElementGuid>
+      <webElementGuid>2cf26fa1-1314-4311-ad64-00da57d5e0a5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -107,7 +107,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='unit-option-0']</value>
-      <webElementGuid>5b676c3a-63ed-4c65-8b34-a7b8c8a7d62b</webElementGuid>
+      <webElementGuid>0930fd5c-d96b-4679-b5dc-565ed73cad0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='unit-listbox']/li</value>
-      <webElementGuid>3a76b338-04f8-44d2-9b75-a06ee6adf903</webElementGuid>
+      <webElementGuid>991fd852-8876-4088-9cbf-703d3ed68488</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::li[1]</value>
-      <webElementGuid>bd53e0b7-6ac0-42b0-88c8-778e1d70cd6f</webElementGuid>
+      <webElementGuid>19e64f2a-ffa3-403a-af0b-6deac01c836a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,7 +131,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Password'])[1]/following::li[1]</value>
-      <webElementGuid>41e287a1-bcd6-41f5-968f-ab0441e07b1f</webElementGuid>
+      <webElementGuid>ff934123-f91b-43f3-876d-ab08fa3a4b4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -139,7 +139,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Air Asia'])[1]/preceding::li[4]</value>
-      <webElementGuid>a2c9b6fa-fbaf-4bcf-8518-b33a699afa62</webElementGuid>
+      <webElementGuid>2c1cb7da-a0ed-409b-9f1f-bc5ebfa13f81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -147,7 +147,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Asa Kreasi Interasia'])[1]/preceding::li[5]</value>
-      <webElementGuid>5e1dcdee-67a5-492a-8b72-109b6490c35e</webElementGuid>
+      <webElementGuid>94f8d2c5-dc6a-4c7e-b491-ad8c85898c60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -155,7 +155,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='123456']/parent::*</value>
-      <webElementGuid>7843aae6-9543-433e-94c7-0021210fff31</webElementGuid>
+      <webElementGuid>8e98a11e-5573-4b15-a350-42c2ea45b217</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -163,7 +163,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/ul/li</value>
-      <webElementGuid>0521af98-81d8-493d-ad94-e789b51fb4d7</webElementGuid>
+      <webElementGuid>1edb5439-ac7b-4304-8eae-5a8027533223</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -171,6 +171,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = 'unit-option-0' and (text() = '123456' or . = '123456')]</value>
-      <webElementGuid>c5ee9dac-fb5e-40ae-9264-7fcc03aa76f8</webElementGuid>
+      <webElementGuid>a84e9fb2-5fff-4eeb-9e97-abece7c824d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

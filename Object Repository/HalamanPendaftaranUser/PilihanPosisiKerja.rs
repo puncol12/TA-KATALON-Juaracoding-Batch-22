@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>li_Admin Recruitment</name>
+   <name>PilihanPosisiKerja</name>
    <tag></tag>
    <elementGuidId>e80c97e1-838e-4941-adc1-ea562e9d5ec5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='posisi-kerja-option-0']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#posisi-kerja-option-0</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'posisi-kerja-option-0' and (text() = 'yusu' or . = 'yusu')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='posisi-kerja-option-0']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>a6329969-9e25-4e50-98ab-6598e3adcba9</webElementGuid>
+      <webElementGuid>72c815b3-a644-4e91-8fd9-913e4a5d3173</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>f08ef9b0-7093-463a-ae78-e0bdee7e8bb8</webElementGuid>
+      <webElementGuid>1444e4ec-429c-4d57-9a3e-1319b173bc8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +43,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>ced4a6b7-60c6-4875-8d79-fab24edf4a2c</webElementGuid>
+      <webElementGuid>625236b0-4891-487b-bb75-7ed36c7b7636</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +51,7 @@
       <name>id</name>
       <type>Main</type>
       <value>posisi-kerja-option-0</value>
-      <webElementGuid>1f1eeefc-46e4-46d9-a9fa-5b38b1a872bf</webElementGuid>
+      <webElementGuid>dd41d55b-64f9-4bf4-9e3d-6e76af1da276</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>data-option-index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>9d1ab590-2f67-4de7-a2d4-bf9146ad90d4</webElementGuid>
+      <webElementGuid>930ac357-2df1-4d36-bb25-bbb8dbd6a42b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9755bb99-4e09-4468-a4a0-4f9880bec463</webElementGuid>
+      <webElementGuid>cff289b5-2bfa-465d-aa30-04345611db4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>df99ea67-938c-49c5-9223-ed99f1550d99</webElementGuid>
+      <webElementGuid>18bd6bbe-5ce9-4789-ba0b-f9908a7b81f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,15 +83,15 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiAutocomplete-option Mui-focused</value>
-      <webElementGuid>30e4791a-d6c5-4560-b482-45a9bdadc70e</webElementGuid>
+      <webElementGuid>46220e71-d688-4852-b1d6-baab6c2cd362</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Admin Recruitment</value>
-      <webElementGuid>657854df-1bad-4b77-8542-7c81ab49d26b</webElementGuid>
+      <value>yusu</value>
+      <webElementGuid>2b520e5c-7e9b-43e9-9067-c5b8a4946eca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;posisi-kerja-option-0&quot;)</value>
-      <webElementGuid>78d464fe-5dbe-428c-a849-e96b66d7d01f</webElementGuid>
+      <webElementGuid>04f72a2f-9e1c-4595-b27e-69923b27c350</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,7 +107,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='posisi-kerja-option-0']</value>
-      <webElementGuid>cc4a5403-a07c-41ab-933e-73bcd341fa55</webElementGuid>
+      <webElementGuid>8063d152-a296-4b37-b6d3-6d6b2aa23771</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +115,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='posisi-kerja-listbox']/li</value>
-      <webElementGuid>2ff2b84b-34ce-43f6-90a6-092394721af2</webElementGuid>
+      <webElementGuid>09c32c6e-2eaa-4cf7-9933-fa7758142ed5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::li[1]</value>
-      <webElementGuid>96ebca16-49a0-4eba-9dde-cea95b97cd6f</webElementGuid>
+      <webElementGuid>11ee1767-48cc-4eb6-a99a-00565fb05f63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +131,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Admin Recruitment']/parent::*</value>
-      <webElementGuid>0fc9aecd-3596-4e97-88db-fecd36fa6c1c</webElementGuid>
+      <webElementGuid>90821a06-c2a1-4552-91bb-617534a1a975</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +139,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/ul/li</value>
-      <webElementGuid>8432454a-c081-4a5b-85b5-8fff2585bcc3</webElementGuid>
+      <webElementGuid>5db7eab3-c39a-4788-8edd-7965151c916d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +147,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = 'posisi-kerja-option-0' and (text() = 'Admin Recruitment' or . = 'Admin Recruitment')]</value>
-      <webElementGuid>6a4ee119-dfad-4988-99b5-b6d70e1738d0</webElementGuid>
+      <webElementGuid>f97da16e-64ea-47fa-bd63-0f6118121a97</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
