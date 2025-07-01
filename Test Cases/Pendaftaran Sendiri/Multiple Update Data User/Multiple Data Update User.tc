@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan update banyak data sekaligus</description>
+   <name>Multiple Data Update User</name>
+   <tag>Tinggi</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b4b9556f-a2fe-49ed-b21a-72f9de882408</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Header Halaman Pendaftaran Sendiri</name>
+   <tag></tag>
+   <elementGuidId>a35bc574-940a-4dd1-83d8-e62947c0faf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/header/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.css-1kei35f</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5933ad9f-6f01-4a0b-b1a0-139d3ac70c13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-1kei35f</value>
+      <webElementGuid>e33c83a5-4970-4fe3-b27f-e8d46f1aac89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pendaftaran Sendiri</value>
+      <webElementGuid>3e3f2bd6-33ed-4fc0-80f7-f157cf99441e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-10f63sf&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-1pma3sf&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-5l32a9&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-1kei35f&quot;]</value>
+      <webElementGuid>26bc7b7b-0f91-46fd-b302-ad465dfdf5d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/header/div/p</value>
+      <webElementGuid>e516a9a1-20ff-464e-ae49-e43e9c4725dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/preceding::p[1]</value>
+      <webElementGuid>3bfd6d26-77d2-4af1-a2a7-6749dd01625f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi,'])[1]/preceding::p[1]</value>
+      <webElementGuid>d6cd6ec9-394f-49b9-b2c9-78c1d3e68070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pendaftaran Sendiri']/parent::*</value>
+      <webElementGuid>b0ecbd9f-9c9a-4d76-b498-43b79ab0bfe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>07ad5335-f47c-474b-9d0d-cf8481ecde9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Pendaftaran Sendiri' or . = 'Pendaftaran Sendiri')]</value>
+      <webElementGuid>c228dd84-9de0-4501-82c9-b68d77da33b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

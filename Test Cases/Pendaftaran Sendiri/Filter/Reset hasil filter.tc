@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan reset untuk semua  filter yang dijalankan</description>
+   <name>Reset hasil filter</name>
+   <tag>Tinggi</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1274a318-63b6-4903-82f9-fcce7bd251bc</testCaseGuid>
+</TestCaseEntity>

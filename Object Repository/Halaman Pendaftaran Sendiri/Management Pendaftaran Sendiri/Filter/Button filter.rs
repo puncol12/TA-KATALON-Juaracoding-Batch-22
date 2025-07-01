@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button filter</name>
+   <tag></tag>
+   <elementGuidId>cb3e3f05-c305-4f4b-b9e6-57253e89c9d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedSecondary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-fullWidth.MuiButton-root.MuiButton-contained.MuiButton-containedSecondary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-fullWidth.css-1rfqlnu</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth css-1rfqlnu']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>11a03023-5064-4561-a4f3-7639eeb24336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth css-1rfqlnu</value>
+      <webElementGuid>88fd166c-b367-454b-990f-da14af37e0cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e8719c34-47bb-4a9d-afeb-acf82a984566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a80d9fb9-7694-45b3-9e88-2a38e267322e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-10f63sf&quot;]/div[@class=&quot;css-11qbmxu&quot;]/div[@class=&quot;MuiContainer-root css-1p62yps&quot;]/div[@class=&quot;MuiBox-root css-76jx17&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true MuiGrid-grid-lg-12 css-1a249as&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-prych4&quot;]/div[@class=&quot;MuiCardContent-root css-1qw96cp&quot;]/div[@class=&quot;MuiBox-root css-1wwixhf&quot;]/form[1]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-lg-12 css-1fppow5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-tuxzvu&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-2 MuiGrid-grid-lg-1 css-t5sgg3&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth css-1rfqlnu&quot;]</value>
+      <webElementGuid>78fadfb6-7d47-4290-a002-3d75163d62b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>4deeccf6-01da-4e3e-8336-9f846c7f69c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div[2]/div/form/div/div/div[4]/button</value>
+      <webElementGuid>67a0e259-e9c0-441e-9e31-f50b2535d7b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::button[1]</value>
+      <webElementGuid>0171b5c7-1c7d-45b7-a85d-36b91924cc04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::button[2]</value>
+      <webElementGuid>f17150cc-f3af-4b44-b832-b682d0455824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data User Registrasi Mobile'])[1]/preceding::button[1]</value>
+      <webElementGuid>96b066b9-d0c7-44fa-b0b7-7fd9e32ab327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/preceding::button[1]</value>
+      <webElementGuid>d13a6476-0fd5-4b9f-af19-f513b2b50c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>7b6aa187-eb7d-42e0-9282-6ae1ea342f01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>2fc41992-ea7c-4118-b0e1-a25e6abcf3a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

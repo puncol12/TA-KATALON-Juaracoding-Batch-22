@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan filter data user mendaftar berdasarkan NIK</description>
+   <name>Filter data menggunakan NIK</name>
+   <tag>Tinggi</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb447f23-e42c-4031-aee2-aa5c900764d9</testCaseGuid>
+</TestCaseEntity>

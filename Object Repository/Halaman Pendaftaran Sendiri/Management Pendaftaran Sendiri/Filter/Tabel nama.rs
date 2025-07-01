@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tabel nama</name>
+   <tag></tag>
+   <elementGuidId>80b996d3-6785-42b8-bd9e-bc702d87a0ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div/div[2]/div/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4ca689d8-8a1b-46e6-a451-237c3a77bf9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-8k6it1</value>
+      <webElementGuid>1c539361-5654-4b4c-942d-6b8af17518ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelompok 3 SQA22 v2</value>
+      <webElementGuid>28099c92-6fe7-4c0b-b7b5-ed909a645124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-10f63sf&quot;]/div[@class=&quot;css-11qbmxu&quot;]/div[@class=&quot;MuiContainer-root css-1p62yps&quot;]/div[@class=&quot;MuiBox-root css-76jx17&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-12 css-15j76c0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-prych4&quot;]/div[@class=&quot;MuiCardContent-root css-1qw96cp&quot;]/div[@class=&quot;table_base MuiBox-root css-hebhpz&quot;]/table[@class=&quot;MuiTable-root css-7vv2eg&quot;]/tbody[@class=&quot;MuiTableBody-root css-1xnox0e&quot;]/tr[@class=&quot;MuiTableRow-root css-9arnca&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-8k6it1&quot;]</value>
+      <webElementGuid>faf940fa-6f9c-49a7-9ad1-eb0c32cb5f4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div/div[2]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>b3e26e09-6446-4759-a9a0-702290e147a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aksi'])[1]/following::td[2]</value>
+      <webElementGuid>adf44e49-c5ec-498c-a58d-bb10695b283e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Diupdate'])[1]/following::td[2]</value>
+      <webElementGuid>4b0b6299-1a13-4a9f-9b89-a2a260bb6346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D7240022'])[1]/preceding::td[1]</value>
+      <webElementGuid>35ddc646-057c-4d6c-8b71-bf873576b6a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>fec76d73-166d-4d54-b66a-bb63760f4cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Kelompok 3 SQA22 v2' or . = 'Kelompok 3 SQA22 v2')]</value>
+      <webElementGuid>a828787e-69d7-4b58-ad0d-a3f1b6e7dd34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

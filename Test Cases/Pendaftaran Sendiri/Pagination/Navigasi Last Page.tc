@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji button last page</description>
+   <name>Navigasi Last Page</name>
+   <tag>Medium</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c5258b7-7954-4397-8d78-b4458a149662</testCaseGuid>
+</TestCaseEntity>
