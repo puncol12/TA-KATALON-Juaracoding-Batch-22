@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/HalamanPendaftaranUser/KolomPeng
 
 WebUI.setText(findTestObject('Object Repository/HalamanPendaftaranUser/KolomPengisianNamaKaryawan'), 'Atalia')
 
-WebUI.setText(findTestObject('Object Repository/HalamanLogin/InputEmailLogin'), 'atal@admin.hadir')
+WebUI.setText(findTestObject('Object Repository/HalamanLogin/InputEmailLogin'), 'asdhjdsgfjas@admin.hadir')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/HalamanLogin/InputPasswordLogin'), 'S2AZ2CswOAOlQb1Nd5D/WQ==')
 
