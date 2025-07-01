@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan uji filter data user berdasarkan nama pada menu dropdown nama</description>
+   <name>Filter data menggunakan nama</name>
+   <tag>Medium</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>013c4590-3004-4f3e-9eeb-536e859625f5</testCaseGuid>
+</TestCaseEntity>

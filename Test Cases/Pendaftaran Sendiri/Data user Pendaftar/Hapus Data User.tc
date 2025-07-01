@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menghapus data user yang telah mendaftar mandiri</description>
+   <name>Hapus Data User</name>
+   <tag>Tinggi</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f6a40d5-c8c9-4613-a42d-e59296941d3d</testCaseGuid>
+</TestCaseEntity>

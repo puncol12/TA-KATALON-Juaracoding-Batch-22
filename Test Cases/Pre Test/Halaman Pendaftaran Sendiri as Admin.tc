@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Halaman Pendaftaran Sendiri as Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ff82c56-a751-4775-b786-22718dc6d819</testCaseGuid>
+</TestCaseEntity>

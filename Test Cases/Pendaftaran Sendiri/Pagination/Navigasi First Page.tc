@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji button first page</description>
+   <name>Navigasi First Page</name>
+   <tag>Medium</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a699434c-8a8f-43cb-831d-9d82443f5ca5</testCaseGuid>
+</TestCaseEntity>

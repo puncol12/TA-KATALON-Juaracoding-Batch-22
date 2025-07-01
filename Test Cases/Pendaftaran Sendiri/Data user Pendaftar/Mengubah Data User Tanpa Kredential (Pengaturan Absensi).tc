@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mengubah data user (pengaturan absensi) yang sudah mendaftar tanpa mengisi kredensial</description>
+   <name>Mengubah Data User Tanpa Kredential (Pengaturan Absensi)</name>
+   <tag>Tinggi</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a79e9e21-85af-4fbc-8cdc-2be2f51473f9</testCaseGuid>
+</TestCaseEntity>

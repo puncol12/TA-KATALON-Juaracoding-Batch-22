@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mengubah data user sebelum di update</description>
+   <name>Mengubah Data User</name>
+   <tag>Tinggi</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fc6810a1-b01b-4e75-80e3-eb7eb9676a7b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>06d158d7-ebab-47ff-a2be-5a03352251a0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ad452edc-e892-455e-aaa0-aebb3cca8c41</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Belajar\\Screenshot_56.png'</defaultValue>
+      <description></description>
+      <id>06d158d7-ebab-47ff-a2be-5a03352251a0</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Belajar\\Screenshot_56.png'</defaultValue>
+      <description></description>
+      <id>ad452edc-e892-455e-aaa0-aebb3cca8c41</id>
+      <masked>false</masked>
+      <name>foto</name>
+   </variable>
+</TestCaseEntity>

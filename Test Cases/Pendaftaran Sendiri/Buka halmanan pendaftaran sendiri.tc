@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Membuka halaman menu management pendaftaran sendiri</description>
+   <name>Buka halmanan pendaftaran sendiri</name>
+   <tag>Tinggi</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c8aeff1-50e7-476a-8d7a-3240b106e9a4</testCaseGuid>
+</TestCaseEntity>

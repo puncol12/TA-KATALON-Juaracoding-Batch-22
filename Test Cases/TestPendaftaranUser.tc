@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestPendaftaranUser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6a5bf008-f7e6-467a-8364-8807c53dd978</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>74de02f2-859f-4b62-9d04-607e12a32513</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\vitoa\\Katalon Studio\\WebHadirAbsensi\\test-data\\imagebiru.png'</defaultValue>
+      <description></description>
+      <id>74de02f2-859f-4b62-9d04-607e12a32513</id>
+      <masked>false</masked>
+      <name>filefoto</name>
+   </variable>
+</TestCaseEntity>

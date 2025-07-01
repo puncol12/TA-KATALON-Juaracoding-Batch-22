@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Container work information</name>
+   <tag></tag>
+   <elementGuidId>4b7028a9-afd3-4b6c-b03c-25da3f4ca379</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div/div[2]/form/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1c4b9a1d-3e37-4a4b-9d36-c726b16e0c76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiCardContent-root css-1saerv2</value>
+      <webElementGuid>d4b1ae47-1fe1-4b80-894e-05ea11b92d16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Divisi​Unit​Unit (HRIS)​Tipe Kontrak​Posisi Kerja​Posisi Kerja (HRIS)​Jabatan​Jabatan (HRIS)​Atasan​Atasan Client V2​Atasan Client V3​</value>
+      <webElementGuid>c12f5ecb-718f-4a8e-9d72-9d1be2c3ac5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-10f63sf&quot;]/div[@class=&quot;css-11qbmxu&quot;]/div[@class=&quot;MuiContainer-root css-1p62yps&quot;]/div[@class=&quot;MuiBox-root css-76jx17&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-12 css-15j76c0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1ov3uxt&quot;]/form[1]/div[@class=&quot;MuiCardContent-root css-1saerv2&quot;]</value>
+      <webElementGuid>45e020f6-1926-412a-a00e-ac5493845875</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div/div[2]/form/div[4]</value>
+      <webElementGuid>1c7e224f-1d9e-4374-ae4f-acfd532ff91b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work Information'])[1]/following::div[1]</value>
+      <webElementGuid>610b60e0-f8f1-4a00-9aae-696a755edc3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::div[3]</value>
+      <webElementGuid>53334a8d-b292-4549-bf91-55a78a8707c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]</value>
+      <webElementGuid>d0f36512-d08a-4df3-b250-e867da52ed9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Divisi​Unit​Unit (HRIS)​Tipe Kontrak​Posisi Kerja​Posisi Kerja (HRIS)​Jabatan​Jabatan (HRIS)​Atasan​Atasan Client V2​Atasan Client V3​' or . = 'Divisi​Unit​Unit (HRIS)​Tipe Kontrak​Posisi Kerja​Posisi Kerja (HRIS)​Jabatan​Jabatan (HRIS)​Atasan​Atasan Client V2​Atasan Client V3​')]</value>
+      <webElementGuid>3a0fc199-b28b-4314-894b-9c2ea2a28e59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

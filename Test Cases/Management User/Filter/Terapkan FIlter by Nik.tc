@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menerapakan filter data user berdasarkan Nik</description>
+   <name>Terapkan FIlter by Nik</name>
+   <tag>Medium</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb911c49-1b86-4656-a82d-4b9c38808984</testCaseGuid>
+</TestCaseEntity>

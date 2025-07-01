@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Halaman Management User as Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d199d9d-6cfc-46d0-9643-e005420c9b2f</testCaseGuid>
+</TestCaseEntity>
